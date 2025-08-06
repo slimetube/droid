@@ -1,6 +1,6 @@
 const filesToCache = [
 	"VirtualXP.htm",
-	"VirtualXP.iso",
+	"https://archive.org/download/sjarb_android_3.2RC2/android-x86-3.2-RC2-tegav2.iso",
 	"VirtualXP.js",
 	"VirtualXP.json",
 	"VirtualXP.png",
